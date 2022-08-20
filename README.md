@@ -17,10 +17,15 @@ https://youtube.com/playlist?list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI
 
 https://youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur
 
+
+http://course.fast.ai
+
+
 ---------------------------------------------
 ## *Pytorch*
 
 https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+
 ----------------------------------------------
 ## *Computer vision*
 
@@ -41,7 +46,7 @@ https://youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX
 https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
 
-http://course.fast.ai
+
 
 ---------------------------------------------
 
