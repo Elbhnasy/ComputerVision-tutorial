@@ -1,7 +1,7 @@
 # ComputerVision-tutorial
 This repo will contain my resources for studying Computer Vision
 
-# *Deep learning*
+## *Deep learning*
 
 https://youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e
 
@@ -16,12 +16,13 @@ https://youtube.com/playlist?list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI
 
 
 https://youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur
+
 ---------------------------------------------
-# *Pytorch*
+## *Pytorch*
 
 https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
 ----------------------------------------------
-# *Computer vision*
+## *Computer vision*
 
 https://youtube.com/playlist?list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0
 
@@ -44,11 +45,11 @@ http://course.fast.ai
 
 ---------------------------------------------
 
-# *Cv books*
+## *Cv books*
 
 https://drive.google.com/drive/folders/1_4ijFHeHO7m738R4TMX2hBjL_dVt3V8D
 
 
-# *Practice on Cv*
+### *Practice on Cv*
 
 https://github.com/cs231n/cs231n.github.io/tree/master/assignments/2021
