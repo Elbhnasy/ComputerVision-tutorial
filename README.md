@@ -7,7 +7,7 @@ https://youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e
 
 
 
-https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
+https://youtube.com/playlist?list=PLog3nOPCjKBkngkkF552-Hiwa5t_ZeDnh
 
 
 
@@ -16,6 +16,10 @@ https://youtube.com/playlist?list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI
 
 
 https://youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur
+
+
+
+https://youtube.com/playlist?list=PLQkyODvJ8ywsLydDYORIlJxV9KarhXp9O
 
 
 http://course.fast.ai
